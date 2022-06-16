@@ -3,20 +3,11 @@
         <img src="images/latch_logo.png" width=37.5%>
     </a>
     <br />
-    <font size="10">Mafft -></font>
-    <a href="https://jlsteenwyk.com/ClipKIT/">
-        <img src="images/ClipKIT_logo_top_only_v1.png" width=37.5%>
-    </a><font size="10">-></font>
-    <a href="http://www.iqtree.org/">
-        <img src="images/iqtree_logo.svg" width=15%>
-    </a>
-</p>
-
-<p align="center">
+    <font width=15%>Mafft -> ClipKIT -> IQTree2</font>
+    <br /><br />
     <a href="https://console.latch.bio/explore/62302/info">
-    <span style="font-size:larger;">Click here to see the workflow!</span></br>
-    </a>
-    </br>
+    <span style="font-size:larger;">Click here to see the workflow!</span></a>
+    </br></br>
     Workflow author: <a href="https://jlsteenwyk.com/">Jacob L. Steenwyk</a>
     </br>
     <a href="https://twitter.com/intent/follow?screen_name=jlsteenwyk" alt="Author Twitter">
