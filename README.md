@@ -23,6 +23,9 @@
 </br>
 
 # Seq_to_tree
+
+<br />
+
 ## About
 The Seq_to_tree workflow goes from a multi-FASTA file of sequences to a phylogenetic tree. Specifically, the seq_to_tree workflow will align sequences using Mafft, trim the alignment using ClipKIT, and then infer the evolutionary history of the sequences using IQTREE.
 
