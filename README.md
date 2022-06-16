@@ -28,6 +28,8 @@ The Seq_to_tree workflow goes from a multi-FASTA file of sequences to a phylogen
 
 Users can modify many, but not all, components of running each software. These are described in detail below. However, user’s must name their output directory and input their multi-FASTA file. Otherwise, default parameters will be selected for all other options.
 
+<br />
+
 ## Citations
 If you found seq_to_tree useful, please cite 
 - MAFFT Multiple Sequence Alignment Software Version 7: Improvements in Performance and Usability. Katoh & Standley 2013, Molecular Biology and Evolution. doi: [10.1093/molbev/mst010](https://academic.oup.com/mbe/article/30/4/772/1073398)*
